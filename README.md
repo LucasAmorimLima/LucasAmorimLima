@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Amorim Lima</h1>
 <h3 align="center">BackEnd Developer</h3>
 
-- 🔭 I’m currently working on **ConFinance and ManSrh**
+- 🔭 I’m currently working on **ChatOnline**
 
 - 🌱 I’m currently learning **Frameworks, Agile methods and New technologies**
 
