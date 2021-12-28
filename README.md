@@ -1,11 +1,11 @@
 ## Hello World! 🌎 
 
-<img align="right" src="https://github.com/GabrielBorges105/GabrielBorges105/blob/main/image.png" width="425"/>
+<img align="right" src="https://github.com/LucasAmorimLima/LucasAmorimLima/blob/main/image.png" width="425"/>
 
 ### 👨‍💻 &nbsp; Minha jornada
 Iniciei um curso de técnico em informática aos 16 anos, pois sempre tive interesse pela área, aprendi a conceitos fundamentais da programação, que me guiam até hoje, a exemplo destes: lógica de programação, banco de dados, linguagens de desenvolvimento desktop e web, POO, metodologias de desenvolvimento dentre outros conceitos e tecnologias 
 Logo após a conclusão do curso, no ano de 2019 fui contratado como estagiário no cargo de desenvolvedor Web, no decorrer das atividades usei tecnologias como: PHP, Html, Css, JavaScript, Ajax e métodos ágeis de desenvolvimento para melhorar o desempenho e organização da equipe. Me comprometi em apresentar resultados dos 2 anos de estudo, e os cumprir sendo reconhecido pelo stackholdes do projeto.
-Buscando aperfeiçoar minhas habilidades e aprender novas tecnologias, iniciei meus estudos na UFMA, cursando Ciência e Tecnologia 
+Buscando aperfeiçoar minhas habilidades e aprender novas tecnologias, iniciei meus estudos na UFMA, cursando Ciência e Tecnologia.
 
 
 ### Front-end Stack
@@ -30,9 +30,10 @@ Buscando aperfeiçoar minhas habilidades e aprender novas tecnologias, iniciei m
 
 
 ### 📱 Redes e Contato
-<a href="https://www.linkedin.com/in/diogo-santos01"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp; </a>
-![Watsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)&nbsp;
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
+<a href="https://www.linkedin.com/in/lucas-amorim-lima-a46a4117a/"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp; </a>
+<a href="(98) 99198-7156">![Watsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)&nbsp;</a>
+<a herf="lucasamorimlima17@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;</a>
+
 
 ### Ferramentas Home-Office
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)&nbsp;
