@@ -17,6 +17,7 @@ Buscando aperfeiçoar minhas habilidades e aprender novas tecnologias, iniciei m
 
 ### Back-end Stack
 ![NodeJs](https://img.shields.io/badge/Node.Js-14354C?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/express-14354C?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-14354C?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Adonis](https://img.shields.io/badge/adonis-ffca28?style=for-the-badge&logo=adonisjs&logoColor=black)&nbsp;
@@ -32,7 +33,7 @@ Buscando aperfeiçoar minhas habilidades e aprender novas tecnologias, iniciei m
 ### 📱 Redes e Contato
 <a href="https://www.linkedin.com/in/lucas-amorim-lima-a46a4117a/"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp; </a>
 ![Watsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)&nbsp;
-<a href="lucasamorimlima17@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;</a>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
 
 
 ### Ferramentas Home-Office
