@@ -18,9 +18,11 @@ Buscando aperfeiçoar minhas habilidades e aprender novas tecnologias, iniciei m
 ### Back-end Stack
 ![NodeJs](https://img.shields.io/badge/Node.Js-14354C?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/express-14354C?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Adonis](https://img.shields.io/badge/adonis-ffca28?style=for-the-badge&logo=adonisjs&logoColor=black)&nbsp;
+![Nestjs](https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=red)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-14354C?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Adonis](https://img.shields.io/badge/adonis-ffca28?style=for-the-badge&logo=adonisjs&logoColor=black)&nbsp;
+
 
 ### Editor, Vesionamento de código e S.O
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
